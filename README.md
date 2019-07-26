@@ -1,3 +1,15 @@
+
+
+
+* https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/
+* https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm/
+
+todo
+* vdom 怎么实现的
+* 事件监听
+* bump memory allocation 是怎么做的, https://github.com/CrazyFork/bumpalo
+
+
 # Dodrio
 
 A fast, bump-allocated virtual DOM library for Rust and WebAssembly. Note that
